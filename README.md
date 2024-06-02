@@ -13,7 +13,7 @@ arumshin-dev/arumshin-dev는 GitHub 프로필에 'README.md'(이 파일)가 나�
 --->
  <!--타이틀 부분-->
 <div align="center">
- <img alt="arum'sgithub.gif" src="https://github.com/arumshin-dev/arumshin-dev/blob/main/arum'sgithub.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+ <img alt="Welcome to Arum`s GitHub.gif" src="https://github.com/arumshin-dev/arumshin-dev/blob/main/Welcome%20to%20Arum%60s%20GitHub.gif?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 </div>
 
 <!--내용 부분-->
