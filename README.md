@@ -89,6 +89,6 @@
 <div align="center">
   <a href="mailto:arumshin.dev@gmail.com">
     <img
-      src="https://img.shields.io/badge/arumshin.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/arumshin.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
